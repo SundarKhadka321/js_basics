@@ -51,4 +51,4 @@ console.log(mySplice);
 console.log(myarray);
 
 
-// the main difference in slice and splice are slice can not change the original array but splice also change the original array ,slice use for copy the original array but splice is use to add,remove and replace the element//
+// the main difference in slice and splice are slice can not change the original array but splice also change the original array ,slice use for copy the original array but splice is use to add,remove and replace the element //
