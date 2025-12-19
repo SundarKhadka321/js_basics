@@ -31,7 +31,7 @@ console.log(myUser["age"]);//this is the way for delete something inside the obj
 //myUser.name="rambahadur"
 //myUser.email="sundar@microsoft.com"
 
-// console.log(myUser);
+console.log(myUser);
 
 myUser.greeting=function(){
     console.log("hello My User")
@@ -45,3 +45,6 @@ myUser.greeting1=function(){
     
 }
 console.log(myUser.greeting1());
+
+
+
